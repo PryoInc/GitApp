@@ -4,11 +4,6 @@ import { } from "isomorphic-git";
 
 export default class GitApp {
 
-    static main() {
-        let app = new GitApp();
-        app.run();
-    }
-
     constructor() {
 
     }
